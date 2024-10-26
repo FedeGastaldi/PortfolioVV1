@@ -24,7 +24,8 @@
 
 html{
     font-size: 10px;
-
+    
+    
 }
 
 body{
@@ -35,6 +36,7 @@ body{
     background-color: var(--color-dark);
     color: var(--color-text);
     overflow: hidden;
+    
 }
 
 h1 , h2, h3 , h4 , h5 , h6 {
@@ -96,8 +98,8 @@ body{
 .user-info__container-image{
     position: relative;
     display: inline-block;
-    width: 18rem;
-    margin-top: 7rem;
+    width: 15rem;
+    margin-top: 5rem;
     z-index:1;
     
     
